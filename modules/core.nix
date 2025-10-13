@@ -6,6 +6,9 @@
 
     globals = {
       mapleader = " ";
+      options = {
+        shiftwidth = 2;
+      };
     };
 
     spellcheck = {
