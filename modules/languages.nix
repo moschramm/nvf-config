@@ -9,9 +9,9 @@
       clang.enable = true;
       css.enable = true;
       html.enable = true;
-      ts.enable = true;
+      # ts.enable = true;
       java.enable = true;
-      kotlin.enable = true;
+      # kotlin.enable = true;
       lua.enable = true;
       markdown.enable = true;
       nix = {
@@ -21,6 +21,7 @@
       };
       python.enable = true;
       yaml.enable = true;
+      helm.enable = true;
     };
     comments = {
       comment-nvim.enable = true;
