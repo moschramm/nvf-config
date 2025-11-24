@@ -16,5 +16,7 @@
     };
 
     autopairs.nvim-autopairs.enable = true;
+
+    searchCase = "ignore";
   };
 }
