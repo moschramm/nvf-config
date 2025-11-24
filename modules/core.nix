@@ -7,7 +7,9 @@
     globals = {
       mapleader = " ";
       options = {
-        shiftwidth = 2;
+        shiftwidth = 4;
+        softtabstop = -1;
+        tabstop = 8;
       };
     };
 
